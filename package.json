@@ -1,11 +1,25 @@
 {
   "name": "note_app",
   "version": "1.0.0",
-  "description": "notes application (angular test)",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Dan Lopez",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielclopez0/noteApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielclopez0/noteApp/issues"
+  },
+  "homepage": "https://github.com/danielclopez0/noteApp#readme",
+  "dependencies": {
+    "angular": "^1.5.1",
+    "angular-route": "^1.5.1",
+    "express": "^4.13.4",
+    "jquery": "^2.2.1"
+  }
 }
